@@ -1,1 +1,1 @@
-# mysql_and_python
+Integrating the database mysql with python
